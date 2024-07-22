@@ -1,0 +1,16 @@
+.DS_Store
+/*
+
+!.gitignore
+
+!ImmutableUETest.uproject
+
+!Source
+!Content
+!Config
+!Plugins
+
+Plugins/*/Binaries
+Plugins/*/Intermediate
+
+
